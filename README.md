@@ -1,2 +1,3 @@
 # GDalonso.github.io
-my page
+Some projects and info about them
+https://gdalonso.github.io/
