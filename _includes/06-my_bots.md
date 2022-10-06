@@ -1,5 +1,3 @@
-## Here are some of my projects
-
 ## Telegram Bots:
 
 ### NBA Scores bot: *[@nbascbot](http://telegram.me/nbascbot)*
