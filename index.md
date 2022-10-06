@@ -2,6 +2,7 @@
 layout: default
 ---
 <br>
-{% include 05-emphasis.md%}
+{% include 01-personal-info.md %}
 ## Here are some of my projects
-{% include 06-my_bots.md %}
+{% include 04-bots-info %}
+{% include 05-maker-projects %}
