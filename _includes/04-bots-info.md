@@ -13,7 +13,7 @@ Tech used:
 
 ![NBAScoresBot demo](https://s3.amazonaws.com/hackultura/Public/Markdown_gifs/nbabot.gif)
 
-### UCL Random Scores to Bet: *[@tesstttttttttt_bot](https://t.me/tesstttttttttt_bot)*
+### UCL Random Scores to Bet: *[@UCLrndbettorBot](https://t.me/UCLrndbettorBot)*
 
 Tired of failing to get any UCL scores right? Embrace the chaos.
 Grabs all the matches to the next upcoming UCL match day, generates random scores that you can use to bet in *[UEFAChampionsBot](https://t.me/UEFAChampionsBot)*
